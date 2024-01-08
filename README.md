@@ -50,32 +50,30 @@ using ReCharts in the frontend.
 
 ### **Data Visualization:**
 
-1.Data Fetching:
+**1.Data Fetching:**
 
-We will Fetch the data from the sensor collected CSV Files to the
-Frontend and the the visualization the imported csv data begins.
+Fetching the data from the sensor collected CSV Files to the
+Frontend and the visualization of the imported csv data begins.
 
 **2.Visualization:**
 
-Now we will, Visualize data using charts/graphs to show trends and other
+Visualizing data using charts/graphs to show trends and other
 information to make it easier to understand
 
 **3.Real-time Updates:**
 
-Ensure real-time updates as new data is added to the platfrom we have to
+Ensure real-time updates as new data is added to the platfrom have to
 update the Sensor collected Data for better users friendlu experience.
 
 **IMPLEMENTATION :**
 
 -   FrontendTechnology :
 
-> Here we have used Rect.js for the frontend fro Building the
-> Visualization interface.
+> Here I have used Rect.js for the frontend for Building the Visualization interface.
 
 -   Charts/Graphs :
 
-> We can implement different types of charts/graphs based on the sensor
-> data
+> I implement different types of charts/graphs based on the sensor data
 
 -   Real-Time Updates:
 
@@ -93,7 +91,7 @@ SIMULATOR
 
 IMPORTING .CSV FILE
 
-Here we import the direct csv sensor recorded files
+Here I import the direct csv sensor recorded files
 
 DATA VISUALIZATION
 
@@ -132,15 +130,19 @@ follows.....**
 
 ![WhatsApp Image 2024-01-07 at 20 41 54_48b30f9b](https://github.com/krishkrishna03/MACHINE_LEARNING_PROJECT/assets/96357392/234e5552-9579-4a2b-8561-9703088cb2cd)
 
-**Conclusion :**
+**Prediction Analysis :**
 
--   **For predicting Air Quality we used the Machine Learning Algorithm
-    called Linear Regression**
+-   *For predicting Air Quality I used the Machine Learning Algorithm
+    called Linear Regression*
 
--   **For predicting Soil Quality we used the Machine Learning Algorithm
-    called Decision Tree**
+-   *For predicting Soil Quality I used the Machine Learning Algorithm
+    called Decision Tree*
 
--   **For predicting Water Quality we used the Machine Learning
-    Algorithm called Random Forest.**
-
--   **This is all about the IOT Sensor Data Analysis Platfrom**
+-   *For predicting Water Quality I used the Machine Learning
+    Algorithm called Random Forest.*
+    
+**Follow below steps to run the task:**
+  
+-   As I only use React.JS to develop the whole task, just need to import required files of React
+-   *npm install* - It installs all required files for the task.
+-   *npm start* - It starts the execution and leads you to the landing page of the website.
